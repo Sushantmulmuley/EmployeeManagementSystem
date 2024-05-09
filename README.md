@@ -19,8 +19,8 @@ Employee Management system web app typically provides features such as:
 * Sql Database
 
 ## Installation
-* Download apk file from github
-* install it in you system (pc) or run it in virtual environment
+* Download file from github , open the sln file
+* Run it on .Net 8.0 framework Environment
 
 ## Getting Started
 This is an example of how you may give instructions on setting up your project locally.
